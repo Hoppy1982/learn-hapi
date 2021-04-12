@@ -35,6 +35,9 @@ module.exports = new Confidence.Store({
                 options: {}
             },
             {
+                plugin: './plugins/swagger'
+            },
+            {
                 plugin: '@hapipal/schwifty',
                 options: {
                     $filter: 'NODE_ENV',
