@@ -1,5 +1,5 @@
 {
-  "name": "chat-app",
+  "name": "learn-hapi",
   "version": "1.0.0",
   "description": "Learn hpal",
   "author": "mark hopcraft",
@@ -15,7 +15,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@hapi/boom": "9.x.x",
+    "@hapi/boom": "^9.1.4",
     "@hapipal/haute-couture": "4.x.x",
     "joi": "17.x.x"
   },
